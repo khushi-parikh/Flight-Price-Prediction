@@ -1,0 +1,27 @@
+body {
+    /* background-color: #e1f4f3; */
+    text-align: center;
+    background-image: url('/static/bg.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    width: 100%;
+    height: auto;
+   
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9; 
+}
+
+a:hover {
+    color: #f0f0f0;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 70%);
+    border: black 5px double;
+}
